@@ -12,6 +12,6 @@
      println!("Hello from println!");
      Api::exit(42);
  }
-
+// noli  crateのentry_point!が、main関数を起動
  entry_point!(main);
 
