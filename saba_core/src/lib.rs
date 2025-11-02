@@ -1,4 +1,4 @@
 #![no_std]
-extern crete alloc;
+extern crate alloc;
 
 pub mod url;
